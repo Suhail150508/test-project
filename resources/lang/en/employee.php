@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+    "employee" => "Employee",
+    "father" => "Father's Name",
+    "mother" => "Mother's Name",
+    "designation" => "Designation",
+    "workshop" => "Workshop",
+    "fire_station" => "Fire Station",
+    "old_pin" => "Old Pin",
+    "new_pin" => "New Pin",
+    "religion" => "Religion",
+    "gender" => "Gender",
+    "id_card" => "Id Card",
+    "nid" => "NID",
+    "birth_date" => "Birth Date",
+    "mobile" => "Mobile",
+    "email" => "Email",
+    "emergency_contact" => "Emergency Contact",
+    "present_address" => "Present Address",
+    "permanent_address" => "Permanent Address",
+    "job_details" => "Job Details",
+    "profile_picture" => "Profile Picture",
+    "profile_picture_preview" => "Profile Picture Preview",
+    "profile_picture_existing" => "Previous Profile Picture",
+    "remove_profile_picture" => "Remove?",
+    "signature" => "Signature",
+    "signature_preview" => "Signature Preview",
+    "signature_existing" => "Previous Signature",
+    "remove_signature" => "Remove?",
+    "sync" => "Sync Employee",
+    "pin" => "Old/New PIN",
+    "sync_from_hrm" => "Sync From HRM Server Database",
+    "search" => "Search Employee",
+
+];

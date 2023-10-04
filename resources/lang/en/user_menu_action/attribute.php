@@ -1,0 +1,37 @@
+<?php
+
+return [
+    "user_menu_action" => "User Menu Action",
+    "index_title" => "User Menu Action List",
+    "create_button_title" => "Create User Menu Action",
+    "create_title" => "Add New User Menu Action",
+    "edit_title" => "Edit User Menu Action",
+    "label_select_menu_action_id" => "Select Menu Action",
+    "label_menu_action_id" => "Menu Action",
+    "label_parent_id" => "Parent Action",
+    "label_name" => "Name(English)",
+    "label_bn_name" => "Name(Bengali)",
+    "label_type" => "Type",
+    "label_select_one" => "Select One",
+    "label_route_name" => 'Route Name',
+    "label_icon" => "Action Icon",
+    "label_button_class" => "Button Class",
+    "label_slug" => "Slug",
+    "label_class" => "Class",
+    "label_order_by" => "Order By",
+    "label_is_hidden" => "Is Hidden ?",
+    "label_is_hidden_yes" => "Yes",
+    "label_is_hidden_no" => "No",
+    "label_status" => "Status",
+    "label_status_active" => "Active",
+    "label_status_inactive" => "Inactive",
+    "label_show_in_table" => "Show In Table",
+    "label_show_in_table_yes" => "Yes",
+    "label_show_in_table_no" => "No",
+    "label_new_tab" => "New Tab",
+    "label_new_tab_yes" => "Yes",
+    "label_new_tab_no" => "No",
+    "label_submit_button" => "SUBMIT",
+];
+
+?>

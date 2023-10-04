@@ -1,0 +1,112 @@
+.breadcrumb-item>a {
+    /*color: #08b746;*/
+    font-size: 13px;
+    font-weight: bold
+}
+
+.page-header{
+    background-clip: border-box;
+    background: #e6e6e6;
+    padding: 8px 10px;
+    margin-bottom: 15px;
+}
+/*
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}*/
+
+.text-right{
+    text-align: right;
+}
+
+.form-group-check{
+    display: block;
+    width: 100%;
+    padding: .47rem .75rem;
+    font-size: .8125rem;
+    border: 1px solid #ced4da;
+    -moz-appearance: none;
+}
+
+.form-check-custom{
+display: inline-block;
+margin-right: 20px;
+}
+
+.select2-selection{
+height: 34px !important;
+}
+
+table tbody td .btn{
+    margin-right: 10px;
+}
+
+/*
+.table th, .table td{
+    padding: 4px;
+    font-size: 12px;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #d4d4d4;
+}
+
+#datatable_length label{
+    display: inline-flex !important;
+}
+
+#datatable_length select{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#datatable_filter label{
+    display: inline-flex;
+}*/
+
+.breadcrumb-link {
+    color: royalblue !important;
+}
+
+.breadcrumb-link:hover {
+    color: deepskyblue !important;
+    text-decoration: underline !important;
+}
+
+.breadcrumb-item+.breadcrumb-item:before {
+    content: '\226B';
+    font-weight: bold;
+    color: green;
+}
+
+body {
+    font-family: 'Siyam Rupali', Fallback, sans-serif;
+    overflow-x: auto; // for datatable-responsive
+}
+
+.select2-hidden-accessible.parsley-error ~ ul ~ .select2-container--default .select2-selection--single {
+    border-color: #f34943 !important;
+}
+
+.select2-hidden-accessible.parsley-success ~ ul ~ .select2-container--default .select2-selection--single {
+    border-color: #31ce77 !important;
+}
+
+#datatable {
+    overflow-x: auto;
+    scrollX: true;
+}
+
+.select2-container{
+    width: 100%;
+}

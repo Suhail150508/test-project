@@ -1,0 +1,14 @@
+<?php
+
+return [
+    "title" => "Title",
+    "description" => "Description",
+    "status" => "Status",
+
+    "created" => "ProfessionalCertification created successfully",
+    "updated" => "ProfessionalCertification updated successfully",
+    "deleted" => "ProfessionalCertification deleted successfully",
+    "restore" => "ProfessionalCertification restored successfully",
+    "forecedelete" => "ProfessionalCertification forecedeleted successfully",
+    "status" => "ProfessionalCertification status updated successfully",
+];
